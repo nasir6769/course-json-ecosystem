@@ -58,5 +58,22 @@
     "difficulty": "beginner",
     "module_number": 6,
     "certification": "paid"
+  },
+  {
+    "id": 7,
+    "platform": "youtube",
+    "free_course": "yes",
+    "course_name": "c programming",
+    "link": "https://"id": 6,
+    "platform": "Cloud Skills Boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.youtube.com/@CollegeWallahbyPW",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "free"",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
   }
 ]
